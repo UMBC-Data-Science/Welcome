@@ -1,5 +1,14 @@
 # Welcome-Package
-Here you can find data science tools that you should install and learn before you start the program.
+
+Welcome to the Data Science Program at UMBC! We are so excited to work with you and help you achive your academic and career goals. To make your transition smoother please read the following material and make sure you refresh your fundamental skills. Here is some guidance for you to prepare before your first day of the program. 
+
+## Basic Statistics
+
+we will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. I you feel you need a refresher please check the following resources:
+
+- [A very good textbook on Statistics with Python](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+
+- [A video tutorial series for statistics fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
 ## Github
 
