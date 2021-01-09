@@ -4,7 +4,7 @@ Welcome to the Data Science Program at UMBC! We are so excited to work with you 
 
 ## Basic Statistics
 
-we will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. I you feel you need a refresher please check the following resources:
+We will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. If you feel you need a refresher please check the following resources:
 
 - [A very good textbook on Statistics with Python](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
@@ -12,7 +12,7 @@ we will review some advanced statistical notions in the courses if the instructo
 
 ## Github
 
-If you haven't already please [create a Github account](https://github.com/join). You will be sharing your projects with your classmates and instructors via Github. For more information about how to use Github efficiently you can take a look at the following resources:
+If you haven't already, please [create a Github account](https://github.com/join). You will be sharing your projects with your classmates and instructors via Github. For more information about how to use Github efficiently you can take a look at the following resources:
 
 - [A short introduction on Github](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)
 - [github Guides - Hello World!](https://guides.github.com/activities/hello-world/)
