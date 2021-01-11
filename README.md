@@ -4,11 +4,17 @@ Welcome to the Data Science Program at UMBC! We are so excited to work with you 
 
 ## Basic Statistics
 
-We will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. If you feel you need a refresher please check the following resources:
+We will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. If you feel like you need a refresher of both fundamental and some advanced statistical concepts, please check the following resources:
 
 - [A very good textbook on Statistics with Python](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
 - [A video tutorial series for statistics fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+
+## Mathematical Foundations for Data Science
+
+In order to be able to follow discussions in the courses like Introduction to Data Analysis and Machine Learning, you are expected to have certain level of understanding in basic notions of calculus and linear algebra. If you feel like you need a refresher, please check the following resources:
+
+- [Mathematics for Machine Learning, Part-I](https://mml-book.com.)
 
 ## Github
 
