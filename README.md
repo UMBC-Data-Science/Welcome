@@ -2,6 +2,10 @@
 
 Welcome to the Data Science Program at UMBC! We are so excited to work with you and help you achive your academic and career goals. To make your transition smoother please read the following material and make sure you refresh your fundamental skills. Here is some guidance for you to prepare before your first day of the program. 
 
+## Course Descriptions, Registration and More...
+
+[One-stop shop for most of your questions](https://sites.google.com/umbc.edu/dsh/home)
+
 ## Basic Statistics
 
 We will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. If you feel like you need a refresher of both fundamental and some advanced statistical concepts, please check the following resources:
