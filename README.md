@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the Data Science Program at UMBC! We are so excited to work with you and help you achive your academic and career goals. To make your transition smoother please read the following material and make sure you refresh your fundamental skills. Here is some guidance for you to prepare before your first day of the program. 
+Welcome to the Data Science Program at UMBC! We are so excited to work with you and help you achive your academic and career goals. To make your transition smoother please read the following material and make sure you refresh your fundamental skills before you start the program formally. Here is some guidance for you to prepare before your first day of the program. 
 
 ## Course Descriptions, Registration and More...
 
