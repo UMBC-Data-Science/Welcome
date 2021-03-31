@@ -46,5 +46,5 @@
     - Bernoulli distribution
     - Binomial distribution
     - Normal distribution
-    - $\chi^{2}$ distribution
-    - $t$-distribution
+    - <img src="https://render.githubusercontent.com/render/math?math=\chi^{2}"> distribution
+    - <img src="https://render.githubusercontent.com/render/math?math=t ">- distribution
