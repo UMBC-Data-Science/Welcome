@@ -1,4 +1,4 @@
-# # Prerequisite Mathematis Topics
+# Prerequisite Mathematis Topics
 
 ## Linear Algebra
 
@@ -37,6 +37,6 @@
 
 ## Optimization (good to know)
 
-    - Minima, Maxima (Local vs absolute)
-    - Critical points, inflection points and first derivative test
-    - Lagrange multipliers
+- Minima, Maxima (Local vs absolute)
+- Critical points, inflection points and first derivative test
+- Lagrange multipliers
