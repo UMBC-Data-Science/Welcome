@@ -6,6 +6,18 @@ Welcome to the Data Science Program at UMBC! We are so excited to work with you 
 
 [One-stop shop for most of your questions](https://sites.google.com/umbc.edu/dsh/home)
 
+## Install Anaconda
+
+In our program we will be using Python as the main programming language and one easy way to access to use Python is through Anaconda. You can go to [anaconda.com](https://www.anaconda.com/products/individual#Downloads) directly to install Python by choosing your operating system or you can follow this tutorial on [how to install Anaconda on your computer](https://www.youtube.com/watch?v=YJC6ldI3hWk&ab_channel=CoreySchafer).
+
+## Python
+
+As already mentioned above, we will mainly use Python in our courses and we assume that you know the basics of Python programming. If you need some a refresher please check the following resources:
+
+[An easy to read book on Python](https://jakevdp.github.io/WhirlwindTourOfPython/): We expect you to have some familiarity with the material in the first 12 chapters of this book.
+
+[Python for everybody](https://www.py4e.com/lessons): A very popular introduction to Python course. You can omit lessons 12, 13, 14, 16 and 17 initially.
+
 ## Basic Statistics
 
 We will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. If you feel like you need a refresher of both [fundamental and some advanced statistical concepts](https://github.com/UMBC-Data-Science/Welcome/blob/main/Statistics.md), please check the following resources:
@@ -18,7 +30,7 @@ We will review some advanced statistical notions in the courses if the instructo
 
 ## Mathematical Foundations for Data Science
 
-In order to be able to follow discussions in the courses like Introduction to Data Analysis and Machine Learning, you are expected to have certain level of understanding in basic notions of calculus and linear algebra. If you feel like you need a refresher, please check the following resources:
+In order to be able to follow discussions in the courses like Introduction to Data Analysis and Machine Learning, you are expected to have certain level of understanding in [basic notions of calculus and linear algebra](https://github.com/UMBC-Data-Science/Welcome/blob/main/Mathematics.md). If you feel like you need a refresher, please check the following resources:
 
 - [Mathematics for Machine Learning, Part-I](https://mml-book.com.)
 
@@ -31,14 +43,6 @@ If you haven't already, please [create a Github account](https://github.com/join
 - [A video tutorial series for Git and Github](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&ab_channel=TheCodingTrain) 
 
 
-## Install Anaconda
 
-In our program we will be using Python as the main programming language and one easy way to access to use Python is through Anaconda. You can go to [anaconda.com](https://www.anaconda.com/products/individual#Downloads) directly to install Python by choosing your operating system or you can follow this tutorial on [how to install Anaconda on your computer](https://www.youtube.com/watch?v=YJC6ldI3hWk&ab_channel=CoreySchafer).
 
-## Python
 
-As already mentioned above, we will mainly use Python in our courses and we assume that you know the basics of Python programming. If you need some a refresher please check the following resources:
-
-[An easy to read book on Python](https://jakevdp.github.io/WhirlwindTourOfPython/): We expect you to have some familiarity with the material in the first 12 chapters of this book.
-
-[Python for everybody](https://www.py4e.com/lessons): A very popular introduction to Python course. You can omit lessons 12, 13, 14, 16 and 17 initially.
