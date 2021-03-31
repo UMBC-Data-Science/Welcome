@@ -1,7 +1,5 @@
 # Prerequisite Statistics Topics
 
-## Descriptive Statistics
-
 - Population, Sample and Observations
 
 - Frequency measures, graphical representation of data. 
@@ -48,3 +46,10 @@
     - Normal distribution
     - <img src="https://render.githubusercontent.com/render/math?math=\chi^{2}"> distribution
     - <img src="https://render.githubusercontent.com/render/math?math=t ">- distribution
+
+- Hypothesis Testing: 
+    - p-values, 
+    - <img src="https://render.githubusercontent.com/render/math?math=\alpha">-values,
+    - z-statistics,
+    - t-statistics, 
+    - Type-I and type-II errors.
