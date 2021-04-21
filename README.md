@@ -4,7 +4,11 @@ Welcome to the Data Science Program at UMBC! We are so excited to work with you 
 
 ## Course Descriptions, Registration and More...
 
-[One-stop shop for most of your questions](https://sites.google.com/umbc.edu/dsh/home)
+[One-stop shop for most of your questions: Student Handbook](https://sites.google.com/umbc.edu/dsh/home)
+
+## Computer Science - Basics
+
+[CS50x: Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2020/)
 
 ## Install Anaconda
 
