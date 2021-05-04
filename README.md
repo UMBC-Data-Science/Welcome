@@ -6,22 +6,31 @@ Welcome to the Data Science Program at UMBC! We are so excited to work with you 
 
 [One-stop shop for most of your questions: Student Handbook](https://sites.google.com/umbc.edu/dsh/home)
 
+---
 ## Computer Science - Basics
+
+As you might already know, data science is not a sub-branch of computer science. However, when you work on a data science project, you will use a lot of skills and tools that is traditionally taught in computer science. So if you want to review some basics of computer science, please check the resources listed below. 
 
 [CS50x: Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2020/)
 
-## Install Anaconda
-
-In our program we will be using Python as the main programming language and one easy way to access to use Python is through Anaconda. You can go to [anaconda.com](https://www.anaconda.com/products/individual#Downloads) directly to install Python by choosing your operating system or you can follow this tutorial on [how to install Anaconda on your computer](https://www.youtube.com/watch?v=YJC6ldI3hWk&ab_channel=CoreySchafer).
-
+-----
 ## Python
 
 As already mentioned above, we will mainly use Python in our courses and we assume that you know the basics of Python programming. If you need some a refresher please check the following resources:
+
+[Python for Beginners - Video Tutorials](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
+[Learnpython.org - Interactive coding Exercises](https://www.learnpython.org/)
 
 [An easy to read book on Python](https://jakevdp.github.io/WhirlwindTourOfPython/): We expect you to have some familiarity with the material in the first 12 chapters of this book.
 
 [Python for everybody](https://www.py4e.com/lessons): A very popular introduction to Python course. You can omit lessons 12, 13, 14, 16 and 17 initially.
 
+## Install Anaconda
+
+In our program we will be using Python as the main programming language and one easy way to access to use Python is through Anaconda. You can go to [anaconda.com](https://www.anaconda.com/products/individual#Downloads) directly to install Python by choosing your operating system or you can follow this tutorial on [how to install Anaconda on your computer](https://www.youtube.com/watch?v=YJC6ldI3hWk&ab_channel=CoreySchafer).
+
+------
 ## Basic Statistics
 
 We will review some advanced statistical notions in the courses if the instructors feel it is necessary but we assume that you have solid understanding of the basic notions of statistics. If you feel like you need a refresher of both [fundamental and some advanced statistical concepts](https://github.com/UMBC-Data-Science/Welcome/blob/main/Statistics.md), please check the following resources:
