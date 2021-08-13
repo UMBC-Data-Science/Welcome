@@ -4,7 +4,7 @@ Welcome to the Data Science Program at UMBC! We are so excited to work with you 
 
 ## Course Descriptions, Registration and More...
 
-[One-stop shop for most of your questions: Student Handbook](https://sites.google.com/umbc.edu/dsh/home)
+[One-stop shop for most of your questions: Information Hub](https://dil.umbc.edu)
 
 ---
 ## Computer Science - Basics
