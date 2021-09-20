@@ -53,6 +53,7 @@ If you haven't already, please [create a Github account](https://github.com/join
 
 - [A short introduction on Github](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)
 - [github Guides - Hello World!](https://guides.github.com/activities/hello-world/)
+- [CS50 - Git&Github Tutorial[0:00 - 47:00]](https://www.youtube.com/watch?v=eulnSXkhE7I&ab_channel=CS50)
 - [A video tutorial series for Git and Github](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&ab_channel=TheCodingTrain) 
 
 
