@@ -18,6 +18,8 @@ As you might already know, data science is not a sub-branch of computer science.
 
 As already mentioned above, we will mainly use Python in our courses and we assume that you know the basics of Python programming. If you need some a refresher please check the following resources:
 
+[Youtube Python Tutorials](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln&ab_channel=sentdex)
+
 [Python for Beginners - Video Tutorials](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 [Learnpython.org - Interactive coding Exercises](https://www.learnpython.org/)
